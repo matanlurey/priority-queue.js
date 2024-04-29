@@ -1,0 +1,20 @@
+{
+  "name": "js-priority-queue",
+  "version": "0.0.0",
+  "description": "1-file implementation of a PriorityQueue",
+  "main": "priority-queue.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matanlurey/priority-queue.js.git"
+  },
+  "author": "Matan Lurey <matan@lurey.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matanlurey/priority-queue.js/issues"
+  },
+  "homepage": "https://github.com/matanlurey/priority-queue.js#readme"
+}
